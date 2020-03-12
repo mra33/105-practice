@@ -1,0 +1,33 @@
+/***HEADER*****/
+
+h1 {
+	color: #FF4500;
+	font-family: 'Leckerli One';
+	background-image: 
+	
+}
+
+h4 {
+	color: #FF4500;
+	font-family: 'Leckerli One';
+}
+
+p {
+	font-family: 'Pacifico';
+	color: #FF7F50;
+	background-color: #FFEFD5;
+	
+}
+
+span { 
+	font-family: 'emilys candy', cursive;
+	color:#FF4500	;
+}
+
+.advice {
+	padding: 0px 50px 0px 50px;
+	border-style: dotted;
+}
+
+
+
